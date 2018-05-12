@@ -1,0 +1,30 @@
+_repo: The-Mormon-Prophet-and-His-Harem_44414
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44414-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waite, C. V. (Catherine Van Valkenburg)
+    alias: Waite, Catherine Van Valkenburg
+    birthdate: 1829
+    deathdate: 1913
+    gutenberg_agent_id: '42743'
+    url: http://www.gutenberg.org/2009/agents/42743
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2013-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young, Brigham, 1801-1877'
+- !lcsh 'Mormon Church'
+- !lcc 'F786'
+title: "The Mormon Prophet and His Harem\r\nOr, An Authentic History of Brigham Young,\
+  \ His Numerous Wives and Children"
+url: http://www.gutenberg.org/ebooks/44414
